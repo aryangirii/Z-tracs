@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+tensorflow-cpu
+numpy
+pandas
+scikit-learn==1.3.2
+joblib
+pydantic
